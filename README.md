@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from San Antonio</h3>
+<h3 align="center">A passionate software developer from San Antonio</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahbruno" alt="noahbruno" /></a> </p>
 
